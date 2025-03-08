@@ -24,7 +24,7 @@ export default function Home() {
         </div>
       </header>
 
-            {/* About Us Section */}
+      {/* About Us Section */}
       <section className="py-16 px-4 bg-[#F7F8FA] flex justify-center">
         <div className="max-w-4xl w-full flex flex-col md:flex-row items-start md:justify-between gap-8">
           {/* Image on the Left */}
@@ -79,11 +79,10 @@ export default function Home() {
         </div>
       </section>
 
-
       {/* Footer */}
       <footer className="bg-[#2C3E4F] text-white py-8 px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-sm">© 2025 Dr.Interested. All rights reserved.</p>
+          <p className="text-sm">{"\u00A9"} 2025 Dr.Interested. All rights reserved.</p>
         </div>
       </footer>
     </div>
