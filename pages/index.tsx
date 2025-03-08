@@ -82,7 +82,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-[#2C3E4F] text-white py-8 px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-sm">{"\u00A9"} 2025 Dr.Interested. All rights reserved.</p>
+          <p className="text-sm">Dr.Interested. All rights reserved.</p>
         </div>
       </footer>
     </div>
